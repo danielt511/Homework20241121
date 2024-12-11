@@ -1,0 +1,14 @@
+C:\Users\Wei\Downloads\s114\1110410034\bin\Debug\net8.0\1110410034.exe
+C:\Users\Wei\Downloads\s114\1110410034\bin\Debug\net8.0\1110410034.deps.json
+C:\Users\Wei\Downloads\s114\1110410034\bin\Debug\net8.0\1110410034.runtimeconfig.json
+C:\Users\Wei\Downloads\s114\1110410034\bin\Debug\net8.0\1110410034.dll
+C:\Users\Wei\Downloads\s114\1110410034\bin\Debug\net8.0\1110410034.pdb
+C:\Users\Wei\Downloads\s114\1110410034\obj\Debug\net8.0\1110410034.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wei\Downloads\s114\1110410034\obj\Debug\net8.0\1110410034.AssemblyInfoInputs.cache
+C:\Users\Wei\Downloads\s114\1110410034\obj\Debug\net8.0\1110410034.AssemblyInfo.cs
+C:\Users\Wei\Downloads\s114\1110410034\obj\Debug\net8.0\1110410034.csproj.CoreCompileInputs.cache
+C:\Users\Wei\Downloads\s114\1110410034\obj\Debug\net8.0\1110410034.dll
+C:\Users\Wei\Downloads\s114\1110410034\obj\Debug\net8.0\refint\1110410034.dll
+C:\Users\Wei\Downloads\s114\1110410034\obj\Debug\net8.0\1110410034.pdb
+C:\Users\Wei\Downloads\s114\1110410034\obj\Debug\net8.0\1110410034.genruntimeconfig.cache
+C:\Users\Wei\Downloads\s114\1110410034\obj\Debug\net8.0\ref\1110410034.dll
